@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Azarias646
-- 👀 I’m interested about tech
-- 🌱 I’m currently learning programming and computer
+- 👀 I’m a fullstack developer, I'm learning also database administration
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : lazareazariass@gmail.com / azasawpro@gmail.com
 
